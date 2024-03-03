@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "#b8abd8",
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "monospaceFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "baseFontSize": 22
 }
