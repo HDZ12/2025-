@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "996fce1ef9987e14",
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2546c359832576dc",
+  "active": "87b3421308cc77ce",
   "lastOpenFiles": [
     "线性表.md"
   ]
